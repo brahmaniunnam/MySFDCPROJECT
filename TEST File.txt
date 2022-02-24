@@ -1,6 +1,18 @@
-git clone https://github.com/brahmaniunnam/MySFDCPROJECT.git  - it is to clone repository
+1. git clone https://github.com/brahmaniunnam/MySFDCPROJECT.git  - it is to clone repository
 
-To Switch between branched: 
+2. To Switch between branched: 
 git checkout <branch name>
 
 example: git checkout QA
+
+3. To add files: git add <file name> , to add all files use: git add .
+git add 'TEST File.txt'
+
+4. to commit added files to repo 
+git commit -m "my commit"
+
+5. To push changes to repo 
+git push origin QA
+
+6. To create a new branch - git checkout -b <branhc name>
+testing ok
