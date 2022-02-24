@@ -15,3 +15,4 @@ git commit -m "my commit"
 git push origin QA
 
 6. To create a new branch - git checkout -b <branhc name>
+testing ok
