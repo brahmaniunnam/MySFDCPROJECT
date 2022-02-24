@@ -1,6 +1,12 @@
-git clone https://github.com/brahmaniunnam/MySFDCPROJECT.git  - it is to clone repository
+1. git clone https://github.com/brahmaniunnam/MySFDCPROJECT.git  - it is to clone repository
 
-To Switch between branched: 
+2. To Switch between branched: 
 git checkout <branch name>
 
 example: git checkout QA
+
+3. git add 'TEST File.txt'
+
+4. git commit -m "my commit"
+
+5. git push origin QA
