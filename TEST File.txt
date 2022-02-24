@@ -1,0 +1,6 @@
+git clone https://github.com/brahmaniunnam/MySFDCPROJECT.git  - it is to clone repository
+
+To Switch between branched: 
+git checkout <branch name>
+
+example: git checkout QA
